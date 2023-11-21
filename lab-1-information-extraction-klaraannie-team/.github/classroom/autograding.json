@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "lab1_test",
+      "setup": "sudo -H pip3 install haversine",
+      "run": "python3 lab1_student_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
